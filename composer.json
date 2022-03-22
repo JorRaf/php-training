@@ -1,0 +1,16 @@
+{
+    "name": "jorraf/busca-cep",
+    "description": "Busca endereço pelo cep na base da via-cep",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jorraf\\BuscaCep\\": "src/"
+        },
+        "psr-0": {
+            "Search": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
